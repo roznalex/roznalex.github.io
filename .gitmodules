@@ -1,0 +1,9 @@
+[submodule "TabApp"]
+	path = TabApp
+	url = https://github.com/roznalex/TabApp
+[submodule "orderApp"]
+	path = orderApp
+	url = https://github.com/roznalex/orderApp
+[submodule "breakoutGame"]
+	path = breakoutGame
+	url = https://github.com/roznalex/breakoutGame
