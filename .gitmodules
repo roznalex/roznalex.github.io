@@ -7,3 +7,6 @@
 [submodule "breakoutGame"]
 	path = breakoutGame
 	url = https://github.com/roznalex/breakoutGame
+[submodule "rss-reader"]
+	path = rss-reader
+	url = https://github.com/roznalex/rss-reader
